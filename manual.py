@@ -25,7 +25,7 @@
 
 #OTROS COMANDDOS 
                   #git branch -M main
-                 #git push -u origin main
+                 #git push -u origin main    ###si no funciona git push
                # git remote remove origin
                 #git push origin main
 
